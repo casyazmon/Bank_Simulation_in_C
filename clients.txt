@@ -1,0 +1,6 @@
+samantha : 500000
+nana : 25000
+fred : 9000
+azmon : 650000
+kevin : 89000
+olga : 10000 
